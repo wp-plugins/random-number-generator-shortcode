@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Random Number Generator Shortcode
-Plugin URI: http://pizzli.com
+Plugin URI: http://wordpress.org/plugins/random-number-generator-shortcode/
 Description: Adds [randomnumgen] shortcode which generates a user-defined amount of random numbers between a user-definable range
 Version: 1.0
 Author: Alexander C. Block
