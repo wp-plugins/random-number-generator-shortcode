@@ -4,7 +4,7 @@ Donate link: http://pizzli.com/
 Tags: random, randomnumber, random number, random number generator, random number generator shortcode
 Requires at least: 3.0.1
 Tested up to: 3.5.1
-Stable tag: 4.3
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,7 +33,7 @@ You can generate as many random numbers as you want. Use the numtogen attribute 
 Example Use: [randomnumgen min='1' max='100' numtogen='10'] would generate 10 random numbers between 1 and 100. One number is output per line.
 
 == Screenshots ==
-1. /screenshot.png
+1. screenshot-1.png
 
 == Upgrade Notice ==
 None
