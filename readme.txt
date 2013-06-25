@@ -1,9 +1,9 @@
 === Random Number Generator Shortcode ===
 Contributors: pizzli
-Donate link: http://pizzli.com/
+Donate link: http://pizzli.com/donate.php
 Tags: random, randomnumber, random number, random number generator, random number generator shortcode
 Requires at least: 3.0.1
-Tested up to: 3.5.1
+Tested up to: 3.5.2
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -42,3 +42,7 @@ None
 
 = 1.0 =
 * Initial Development
+
+= 1.1 =
+* Updated Donate Link
+* Verified Compatability with 3.5.2
