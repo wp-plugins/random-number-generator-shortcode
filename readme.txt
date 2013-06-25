@@ -33,7 +33,7 @@ You can generate as many random numbers as you want. Use the numtogen attribute 
 Example Use: [randomnumgen min='1' max='100' numtogen='10'] would generate 10 random numbers between 1 and 100. One number is output per line.
 
 == Screenshots ==
-1. /screenshot.png
+1. screenshot-1.png
 
 == Upgrade Notice ==
 None
